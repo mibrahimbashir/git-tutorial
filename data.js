@@ -1,0 +1,1 @@
+let projects = ['house price predictions', "Mnist flower classification"];
