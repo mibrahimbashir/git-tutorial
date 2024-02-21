@@ -3,4 +3,4 @@ let last = "Bashir";
 
 const author = first + last;
 
-console.log("author")
+console.log(author);
